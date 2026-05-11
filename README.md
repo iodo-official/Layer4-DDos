@@ -1,4 +1,4 @@
-
+111111111111
 ## 🆒 Features
 - ✅ ქართულ
 - ✅ 24/7
@@ -8,10 +8,6 @@
 
 `pip install pystyle`
 
-`git clone https://github.com/SABA2024SGs/iododdos/`
+`git clone https://github.com/iodo-official/SANOMWOVELIAMGONI.git`
 
-`cd iododdos`
-
-`python3 iodo.py`
-
-`python3 iodotop.py`
+დალშე ოდნავ თურამე იცი იზამ რა
